@@ -6,5 +6,5 @@ impelement HDL to Descripe SPI interface which directly connected to RAM
 ## SPI_RAM 
 -![TOP_MDULE](SPI_RAM/images/SPI_RAM1.png "TOP_MODULE") *SPI RAM*
 -![TOP_MDULE](SPI_RAM/images/SPI_RAM2.png "TOP_MODULE") *SPI RAM*
-## Net List Schmatic 
+## Net List Schematic 
 -![TOP_MDULE](SPI_RAM/images/NetList.png "TOP_MODULE") *Gate Level*
